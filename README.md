@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Watch Fusion Kenya. Wear the Moment, Own the Legacy." width="100%">
+<img src="[banner.png](https://drive.google.com/file/d/1ATP2U30iEKaX3RlviLTYsJcXEsbViL7q/view?usp=sharing)" alt="Watch Fusion Kenya. Wear the Moment, Own the Legacy." width="100%">
 
 <br>
 
